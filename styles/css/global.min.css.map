@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AACA,OAAO,CAAC,qGAAI,CAOZ,AAAA,CAAC,AAAA,CACG,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACV,UAAU,CAAE,UAAU,CACzB,AAED,AAAA,IAAI,AAAA,CACA,WAAW,CCfH,kBAAkB,CAAE,UAAU,CDgBtC,OAAO,CAAE,IAAI,CACb,cAAc,CAAE,MAAM,CAKzB,AARD,AAKI,IALA,CAKA,GAAG,AAAA,CACC,SAAS,CAAE,IAAI,CAClB",
+    "sources": [
+        "../../global.scss",
+        "../../_variables.scss",
+        "../../_nav.scss"
+    ],
+    "names": [],
+    "file": "global.min.css"
+}

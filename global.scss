@@ -1,0 +1,54 @@
+//Font - Roboto Condensed
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&display=swap&subset=latin-ext');
+
+
+//imports
+@import "variables";
+@import "nav";
+@import "js-classes";
+@import "technologies";
+@import "portfolio";
+@import "about-me";
+@import "introduction";
+@import "footer";
+
+
+//basic reset
+
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+//basic styles
+body {
+    font-family: $basicFont;
+    display: flex;
+    flex-direction: column;
+    color: $fontColor;
+    line-height: 1.5rem;
+
+    header {
+        display: flex;
+        flex-direction: column;
+    }
+
+    img {
+        max-width: 100%;
+    }
+}
+
+h2 {
+    padding: 30px 0;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}

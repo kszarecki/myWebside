@@ -1,0 +1,33 @@
+#technologies>div {
+    padding-bottom: 30px;
+    text-align: center;
+
+    i {
+        font-size: 4rem;
+    }
+}
+
+#html>i {
+    color: #E44D26;
+}
+
+#css>i {
+    color: #2062AF;
+}
+
+#js>i {
+    color: #F0D91D;
+}
+
+#bootstrap>i {
+    color: #553A7D;
+}
+
+#git>i {
+    color: #E84220;
+}
+
+#portfolio,
+footer {
+    background-color: $secondColor;
+}
